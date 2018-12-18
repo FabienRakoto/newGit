@@ -4,3 +4,5 @@ Les commandes
 
 git init : Initialiser un projet avec git 
 git status : Pour voir les status actuel du projet
+git commit -m et commentaire..
+git log pour voirel'historique de modification
