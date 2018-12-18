@@ -5,7 +5,7 @@ Les commandes
 git init : Initialiser un projet avec git 
 git status : Pour voir les status actuel du projet
 git commit -m et commentaire..
-git log pour voire'historique de modification
+git log pour voire l'historique de modification
 git branch : Affiche tous les branche a commité
 git branch "Nom branch" creer une branche.
 git checkout : pour changer de branche
