@@ -8,4 +8,4 @@ git commit -m et commentaire..
 git log pour voirel'historique de modification
 git branch : Affiche tous les branche a commité
 git branch "Nom branch" creer une branche.
-OKOK
+git merge : pas encore effectuer
